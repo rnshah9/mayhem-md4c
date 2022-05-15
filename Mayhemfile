@@ -1,0 +1,5 @@
+project: rnshah9/mayhem-md4c
+target: md2html
+
+cmds:
+  - cmd: /repo/build/md2html/md2html @@
